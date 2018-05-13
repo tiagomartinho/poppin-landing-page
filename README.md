@@ -11,3 +11,7 @@ Install this starter (assuming Gatsby is installed) by running from your CLI:
 `gatsby new gatsby-starter-stellar https://github.com/codebushi/gatsby-starter-stellar`
 
 Run `gatsby develop` in the terminal to start.
+
+## Deploy
+
+Run `sh scripts/deploy.sh`
