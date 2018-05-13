@@ -2,7 +2,7 @@
   "name": "gatsby-starter-stellar",
   "description": "What's Poppin?",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Tiago Martinho",
   "dependencies": {
     "gatsby": "^1.9.235",
     "gatsby-image": "^1.0.42",
