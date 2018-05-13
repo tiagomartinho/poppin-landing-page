@@ -28,13 +28,13 @@
     "typography-breakpoint-constants": "^0.15.10",
     "typography-plugin-code": "^0.16.11"
   },
-  "homepage": "https://github.com/ChangoMan/gatsby-starter-stellar",
+  "homepage": "https://github.com/tiagomartinho/poppin-landing-page",
   "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ChangoMan/gatsby-starter-stellar.git"
+    "url": "https://github.com/tiagomartinho/poppin-landing-page"
   },
   "scripts": {
     "dev": "gatsby develop",
