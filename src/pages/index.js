@@ -7,6 +7,7 @@ import Waypoint from 'react-waypoint'
 import Header from '../components/Header'
 import Nav from '../components/Nav'
 import pic01 from '../assets/images/pic01.jpg'
+import EmailCaptureForm from '../components/EmailCaptureForm'
 
 class Index extends React.Component {
   constructor(props) {
@@ -162,16 +163,12 @@ class Index extends React.Component {
             <header className="major">
               <h2>Interested?</h2>
               <p>Subscribe to be the first to try "What's Poppin?"</p>
-            </header>
-            <footer className="major">
               <ul className="actions">
                 <li>
-                  <Link to="/generic" className="button special">
-                    Subscribe
-                  </Link>
+                  <EmailCaptureForm />
                 </li>
               </ul>
-            </footer>
+            </header>
           </section>
         </div>
       </div>

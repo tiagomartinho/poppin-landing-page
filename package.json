@@ -17,10 +17,16 @@
     "gatsby-source-filesystem": "^1.5.27",
     "gatsby-transformer-remark": "^1.7.37",
     "gatsby-transformer-sharp": "^1.6.22",
+    "glamor": "^2.20.40",
+    "gray-percentage": "^2.0.0",
+    "hex2rgba": "0.0.1",
     "lodash": "^4.17.5",
     "react-scroll-to-element": "^0.2.0",
     "react-scrollspy": "^3.3.5",
-    "react-waypoint": "^8.0.1"
+    "react-waypoint": "^8.0.1",
+    "typography": "^0.16.17",
+    "typography-breakpoint-constants": "^0.15.10",
+    "typography-plugin-code": "^0.16.11"
   },
   "homepage": "https://github.com/ChangoMan/gatsby-starter-stellar",
   "keywords": [
