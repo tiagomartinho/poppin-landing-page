@@ -66,7 +66,8 @@ class EmailCaptureForm extends React.Component {
                   placeholder="you@email.com"
                   onChange={this._handleEmailChange}
                 />
-                <button onClick={this._handleFormSubmit}>Subscribe</button>
+                <br />
+                <input type="submit" onClick={this._handleFormSubmit} />
                 {this.state.status === `error` && (
                   <div dangerouslySetInnerHTML={{ __html: this.state.msg }} />
                 )}
