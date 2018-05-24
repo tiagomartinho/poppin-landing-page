@@ -5,7 +5,7 @@ import Helmet from 'react-helmet'
 import Waypoint from 'react-waypoint'
 
 import Header from '../components/Header'
-import pic01 from '../assets/images/pic01.jpg'
+import app_screen from '../assets/images/app_screen.png'
 import EmailCaptureForm from '../components/EmailCaptureForm'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
@@ -58,7 +58,7 @@ class Index extends React.Component {
                 </p>
               </div>
               <span className="image">
-                <img src={pic01} alt="" />
+                <img src={app_screen} alt="" />
               </span>
             </div>
           </section>
