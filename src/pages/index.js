@@ -48,15 +48,12 @@ class Index extends React.Component {
                     real-time
                   </h2>
                 </header>
-                <p>
-                  Users upload a short duration video of their experience, other
-                  users can see a list of experiences in a map and decide if
-                  they want to join them. These experiences expire in a short
-                  amount of time to keep the information relevant to what is
-                  happening. Users can give feedback on the experience in order
-                  to help improving the quality of the information. Users can
-                  tag their experience and search for relevant terms.
-                </p>
+                <ul>
+                  <li>Find your spot for the night</li>
+                  <li>See events in real-time</li>
+                  <li>Share your experience</li>
+                  <li>Discover Barcelona</li>
+                </ul>
               </div>
               <span className="image">
                 <img src={app_screen} alt="" />
