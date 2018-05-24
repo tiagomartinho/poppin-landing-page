@@ -6,6 +6,7 @@ import Waypoint from 'react-waypoint'
 
 import Header from '../components/Header'
 import app_screen from '../assets/images/app_screen.png'
+import landing_preview from '../assets/images/landing_preview.jpeg'
 import EmailCaptureForm from '../components/EmailCaptureForm'
 import YouTubePlayer from 'react-player/lib/players/YouTube'
 
@@ -65,12 +66,11 @@ class Index extends React.Component {
 
           <section className="special">
             <div className="player-wrapper">
-              <YouTubePlayer
-                className="react-player"
-                url="https://www.youtube.com/watch?v=3jXFwnTovCk"
-                controls
+              <img
+                src={landing_preview}
+                alt=""
                 width="100%"
-                height="550px"
+                max-height="683px"
               />
             </div>
           </section>
