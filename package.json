@@ -5,6 +5,7 @@
   "author": "Tiago Martinho",
   "dependencies": {
     "gatsby": "^1.9.235",
+    "gatsby-cli": "^1.1.57",
     "gatsby-image": "^1.0.42",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-google-analytics": "^1.0.24",
