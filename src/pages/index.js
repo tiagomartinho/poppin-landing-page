@@ -75,7 +75,7 @@ class Index extends React.Component {
           <section id="cta" className="main special">
             <header className="major">
               <h2>Interested?</h2>
-              <p>Subscribe to be the first to try "What's Poppin?"</p>
+              <p>Get your invite to try "What's Poppin?"</p>
               <EmailCaptureForm />
             </header>
           </section>
