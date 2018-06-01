@@ -1,3 +1,3 @@
 #!bin/bash
 gatsby build
-surge public
+surge --domain hesitant-horn.surge.sh public
